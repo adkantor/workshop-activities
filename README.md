@@ -1,2 +1,2 @@
 # workshop-activities
-Activity solutions for workshops
+My solutions to workshop activities.
