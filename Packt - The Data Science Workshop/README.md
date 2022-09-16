@@ -3,12 +3,12 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
 
 ## Course Curriculum
 ---
-0. Workshop Onboarding
+0. **Workshop Onboarding**
     - Welcome to The Data Science Workshop
     - Installation and Setup
     - Credits
 ---
-1. Introduction to Data Science in Python
+1. **Introduction to Data Science in Python**
     - Overview
     - Application of Data Science
     - Overview of Python
@@ -19,7 +19,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
         - Exercise 1.03: Predicting Breast Cancer from a Dataset Using sklearn
     > Activity 1.01: Train a Spam Detector Algorithm
 ---
-2. Regression
+2. **Regression**
     - Overview
     - Simple Linear Regression
         - Exercise 2.01: Loading and Preparing the Data for Analysis
@@ -36,7 +36,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
     > Activity 2.02: Fitting a Multiple Log-Linear Regression Model
     - Explaining the Results of Regression Analysis
 ---
-3. Binary Classification
+3. **Binary Classification**
     - Overview
     - Understanding the Business Context
         - Exercise 3.01: Loading and Exploring the Data from the Dataset
@@ -53,7 +53,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
         - Exercise 3.06: A Logistic Regression Model for Predicting the Propensity of Term Deposit Purchases in a Bank
     > Activity 3.02: Model Iteration 2 ? Logistic Regression Model with Feature Engineered Variables
 ---
-4. Multiclass Classification with RandomForest
+4. **Multiclass Classification with RandomForest**
     - Overview
     - Training a Random Forest Classifier
     - Evaluating the Model's Performance
@@ -68,7 +68,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
         - Exercise 4.05: Tuning max_features
     > Activity 4.01: Train a Random Forest Classifier on the ISOLET Dataset
 ---
-5. Performing Your First Cluster Analysis
+5. **Performing Your First Cluster Analysis**
     - Overview
     - Clustering with k-means
         - Exercise 5.01: Performing Your First Clustering Analysis on the ATO Dataset
@@ -84,7 +84,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
         - Exercise 5.06: Standardizing the Data from Our Dataset
     > Activity 5.01: Perform Customer Segmentation Analysis in a Bank Using k-means
 ---
-6. How to Assess Performance
+6. **How to Assess Performance**
     - Overview
     - Splitting Data
         - Exercise 6.01: Importing and Splitting Data
@@ -111,7 +111,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
         - Exercise 6.14: Saving and Loading a Model
     > Activity 6.01: Train Three Different Models and Use Evaluation Metrics to Pick the Best Performing Model
 ---
-7. The Generalization of Machine Learning Models
+7. **The Generalization of Machine Learning Models**
     - Overview
     - Overfitting
         - Exercise 7.01: Importing and Splitting Data
@@ -134,7 +134,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
         - Exercise 7.10: Fixing Model Overfitting Using Ridge Regression
     > Activity 7.01: Find an Optimal Model for Predicting the Critical Temperatures of Superconductors
 ---
-8. Hyperparameter Tuning
+8. **Hyperparameter Tuning**
     - Overview
     - What Are Hyperparameters?
         - Exercise 8.01: Manual Hyperparameter Tuning for a k-NN Classifier
@@ -147,7 +147,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
     - Advantages and Disadvantages of a Random Search
     > Activity 8.01: Is the Mushroom Poisonous?
 ---
-9. Interpreting a Machine Learning Model
+9. **Interpreting a Machine Learning Model**
     - Overview
     - Linear Model Coefficients
         - Exercise 9.01: Extracting the Linear Regression Coefficient
@@ -161,7 +161,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
         - Exercise 9.05: Local Interpretation with LIME
     > Activity 9.01: Train and Analyze a Network Intrusion Detection Model
 ---
-10. Analyzing a Dataset
+10. **Analyzing a Dataset**
     - Overview
     - Exploring Your Data
         - Exercise 10.01: Exploring the Ames Housing Dataset with Descriptive Statistics
@@ -173,7 +173,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
         - Exercise 10.04: Visualizing the Ames Housing Dataset with Altair
     > Activity 10.01: Analyzing Churn Data Using Visual Data Analysis Techniques
 ---
-11. Data Preparation
+11. **Data Preparation**
     - Overview
     - Handling Row Duplication
         - Exercise 11.01: Handling Duplicates in a Breast Cancer Dataset
@@ -185,7 +185,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
         - Exercise 11.04: Fixing Missing Values for the Horse Colic Dataset
     > Activity 11.01: Preparing the Speed Dating Dataset
 ---
-12. Feature Engineering
+12. **Feature Engineering**
     - Overview
     - Merging Datasets
         - Exercise 12.01: Merging the ATO Dataset with the Postcode Data
@@ -197,7 +197,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
         - Exercise 12.04: Feature Engineering Using Data Aggregation on the AMES Housing Dataset
     > Activity 12.01: Feature Engineering on a Financial Dataset
 ---
-13. Imbalanced Datasets
+13. **Imbalanced Datasets**
     - Overview
     - Understanding the Business Context
         - Exercise 13.01: Benchmarking the Logistic Regression Model on the Dataset
@@ -209,7 +209,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
     - Applying Balancing Techniques on a Telecom Dataset
     > Activity 13.01: Finding the Best Balancing Technique by Fitting a Classifier on the Telecom Churn Dataset
 ---
-14. Dimensionality Reduction
+14. **Dimensionality Reduction**
     - Overview
     - Business Context
         - Exercise 14.01: Loading and Cleaning the Dataset
@@ -229,7 +229,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
     - Comparing Different Dimensionality Reduction Techniques
     > Activity 14.02: Comparison of Dimensionality Reduction Techniques on the Enhanced Ads Dataset
 ---
-15. Ensemble Learning
+15. **Ensemble Learning**
     - Overview
     - Ensemble Learning
         - Exercise 15.01: Loading, Exploring, and Cleaning the Data
@@ -248,7 +248,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
         - Exercise 15.07: Ensemble Learning Using Stacking
     > Activity 15.02: Comparison of Advanced Ensemble Techniques
 ---
-16. Machine Learning Pipelines
+16. **Machine Learning Pipelines**
     - Overview
     - Pipelines
         - Exercise 16.01: Preparing the Dataset to Implement Pipelines
@@ -265,7 +265,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
     - Applying Pipelines to a Dataset
     > Activity 16.01: Complete ML Workflow in a Pipeline
 ---
-17. Automated Feature Engineering
+17. **Automated Feature Engineering**
     - Overview
     - Feature Engineering
         - Exercise 17.01: Defining Entities and Establishing Relationships
@@ -275,7 +275,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
     - Featuretools on a New Dataset
     > Activity 17.01: Building a Classification Model with Features that have been Generated Using Featuretools
 ---
-18. Model as a Service with Flask
+18. **Model as a Service with Flask**
     - Overview
     - Building a Flask Web API
         - Exercise 18.01: Creating a Flask API with Endpoints
