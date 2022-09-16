@@ -28,7 +28,7 @@ Link: [The Data Science Workshop](https://courses.packtpub.com/courses/data-scie
         - Exercise 2.03: Examining a Possible Log-Linear Relationship Using Python
     - The Statsmodels Formula API
         - Exercise 2.04: Fitting a Simple Linear Regression Model Using the Statsmodels Formula API
-    - Analyzing the Model ---
+    - Analyzing the Model Summary
     > Activity 2.01: Fitting a Log-Linear Model Using the Statsmodels Formula API
     - Multiple Regression Analysis
         - Exercise 2.05: Fitting a Multiple Linear Regression Model Using the Statsmodels Formula API
